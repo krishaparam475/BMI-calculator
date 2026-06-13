@@ -8,5 +8,7 @@ Key features:
 
    1.User Input Validation: Ensure valid user inputs within reasonable ranges and handle errors
      gracefully.
+     
    2.BMI Calculation: Accurately implement the BMI formula.
+   
    3.Categorization: Classify BMI values into health categories based on predefined ranges.
